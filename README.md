@@ -28,4 +28,5 @@ Includes essential features such as moderation commands, leveling, economy, and 
 ```bash
 git clone https://github.com/khoinxd/Discord.js-Bot.git
 cd your-bot-repo
-npm install
+npm install discord.js
+npm install -g nodemon
