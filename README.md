@@ -26,6 +26,6 @@ Includes essential features such as moderation commands, leveling, economy, and 
 ### Clone & Install
 
 ```bash
-git clone https://github.com/your-username/your-bot-repo.git
+git clone https://github.com/khoinxd/Discord.js-Bot.git
 cd your-bot-repo
 npm install
